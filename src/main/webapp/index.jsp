@@ -6,6 +6,7 @@
 	<h1 align="center"> HELLO WORLD </h1>
 	<h1 style="color: green; font-size: 40px;" align="center">WELCOME TO DEVOPS TRAINING</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">WELCOME TO DEVOPS TRAINING</h1>
+	<h1 style="color: blue; font-size: 40px;" align="center">WELCOME TO DEVOPS TRAINING</h1>
 	
 	
 	
